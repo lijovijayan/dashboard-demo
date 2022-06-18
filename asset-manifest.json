@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://gather.lijovijayan.dev/static/css/main.496f9c20.css",
+    "main.css": "https://gather.lijovijayan.dev/static/css/main.89cf41b8.css",
     "main.js": "https://gather.lijovijayan.dev/static/js/main.b5c384b4.js",
     "static/js/787.3c74c6e2.chunk.js": "https://gather.lijovijayan.dev/static/js/787.3c74c6e2.chunk.js",
     "static/media/EuclidFlex-Gather-Thin.ttf": "https://gather.lijovijayan.dev/static/media/EuclidFlex-Gather-Thin.165c633e489130e9f22f.ttf",
@@ -25,12 +25,12 @@
     "static/media/arrow-down.svg": "https://gather.lijovijayan.dev/static/media/arrow-down.f52aac09c2f910067bc85e66f8009aa0.svg",
     "static/media/ic_error_new.svg": "https://gather.lijovijayan.dev/static/media/ic_error_new.ab87ce8063bd82778c6b7b0a210125b4.svg",
     "static/media/ic_error_new_green.svg": "https://gather.lijovijayan.dev/static/media/ic_error_new_green.be19888fa1ece2abddd6e213639c786d.svg",
-    "main.496f9c20.css.map": "https://gather.lijovijayan.dev/static/css/main.496f9c20.css.map",
+    "main.89cf41b8.css.map": "https://gather.lijovijayan.dev/static/css/main.89cf41b8.css.map",
     "main.b5c384b4.js.map": "https://gather.lijovijayan.dev/static/js/main.b5c384b4.js.map",
     "787.3c74c6e2.chunk.js.map": "https://gather.lijovijayan.dev/static/js/787.3c74c6e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.496f9c20.css",
+    "static/css/main.89cf41b8.css",
     "static/js/main.b5c384b4.js"
   ]
 }
