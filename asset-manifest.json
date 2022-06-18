@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://gatherdashboardstaging.z13.web.core.windows.net/static/css/main.4d1b61c8.css",
-    "main.js": "https://gatherdashboardstaging.z13.web.core.windows.net/static/js/main.f5f8eff0.js",
+    "main.css": "https://gatherdashboardstaging.z13.web.core.windows.net/static/css/main.b9909cef.css",
+    "main.js": "https://gatherdashboardstaging.z13.web.core.windows.net/static/js/main.8dafbbca.js",
     "static/js/787.3c74c6e2.chunk.js": "https://gatherdashboardstaging.z13.web.core.windows.net/static/js/787.3c74c6e2.chunk.js",
     "static/media/EuclidFlex-Gather-Thin.ttf": "https://gatherdashboardstaging.z13.web.core.windows.net/static/media/EuclidFlex-Gather-Thin.165c633e489130e9f22f.ttf",
     "static/media/EuclidFlex-Gather-Light.ttf": "https://gatherdashboardstaging.z13.web.core.windows.net/static/media/EuclidFlex-Gather-Light.2d419ade5058cc6f1569.ttf",
@@ -24,12 +24,12 @@
     "static/media/arrow-down.svg": "https://gatherdashboardstaging.z13.web.core.windows.net/static/media/arrow-down.f52aac09c2f910067bc85e66f8009aa0.svg",
     "static/media/ic_error_new.svg": "https://gatherdashboardstaging.z13.web.core.windows.net/static/media/ic_error_new.ab87ce8063bd82778c6b7b0a210125b4.svg",
     "static/media/ic_error_new_green.svg": "https://gatherdashboardstaging.z13.web.core.windows.net/static/media/ic_error_new_green.be19888fa1ece2abddd6e213639c786d.svg",
-    "main.4d1b61c8.css.map": "https://gatherdashboardstaging.z13.web.core.windows.net/static/css/main.4d1b61c8.css.map",
-    "main.f5f8eff0.js.map": "https://gatherdashboardstaging.z13.web.core.windows.net/static/js/main.f5f8eff0.js.map",
+    "main.b9909cef.css.map": "https://gatherdashboardstaging.z13.web.core.windows.net/static/css/main.b9909cef.css.map",
+    "main.8dafbbca.js.map": "https://gatherdashboardstaging.z13.web.core.windows.net/static/js/main.8dafbbca.js.map",
     "787.3c74c6e2.chunk.js.map": "https://gatherdashboardstaging.z13.web.core.windows.net/static/js/787.3c74c6e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d1b61c8.css",
-    "static/js/main.f5f8eff0.js"
+    "static/css/main.b9909cef.css",
+    "static/js/main.8dafbbca.js"
   ]
 }
