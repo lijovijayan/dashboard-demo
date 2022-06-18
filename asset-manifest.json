@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://gather.lijovijayan.dev/static/css/main.89cf41b8.css",
-    "main.js": "https://gather.lijovijayan.dev/static/js/main.b5c384b4.js",
+    "main.css": "https://gather.lijovijayan.dev/static/css/main.14f34e8b.css",
+    "main.js": "https://gather.lijovijayan.dev/static/js/main.f3409eee.js",
     "static/js/787.3c74c6e2.chunk.js": "https://gather.lijovijayan.dev/static/js/787.3c74c6e2.chunk.js",
     "static/media/EuclidFlex-Gather-Thin.ttf": "https://gather.lijovijayan.dev/static/media/EuclidFlex-Gather-Thin.165c633e489130e9f22f.ttf",
     "static/media/EuclidFlex-Gather-Light.ttf": "https://gather.lijovijayan.dev/static/media/EuclidFlex-Gather-Light.2d419ade5058cc6f1569.ttf",
@@ -12,7 +12,6 @@
     "static/media/EuclidFlex-Gather-Medium.ttf": "https://gather.lijovijayan.dev/static/media/EuclidFlex-Gather-Medium.f4c135560ba0b163499c.ttf",
     "service-worker.js": "https://gather.lijovijayan.dev/service-worker.js",
     "static/media/pick.svg": "https://gather.lijovijayan.dev/static/media/pick.739ea4e7c09f712f11ce8da242aa61e0.svg",
-    "static/media/logo_with_name.svg": "https://gather.lijovijayan.dev/static/media/logo_with_name.f3e556a6f71039e35248d47582dc7eac.svg",
     "index.html": "https://gather.lijovijayan.dev/index.html",
     "static/media/chevron.svg": "https://gather.lijovijayan.dev/static/media/chevron.35e23624ebf4a2ed3084219eea7df5dc.svg",
     "static/media/broken-image.svg": "https://gather.lijovijayan.dev/static/media/broken-image.1ad6873d09c18ad5177fb63bb39055b7.svg",
@@ -25,12 +24,12 @@
     "static/media/arrow-down.svg": "https://gather.lijovijayan.dev/static/media/arrow-down.f52aac09c2f910067bc85e66f8009aa0.svg",
     "static/media/ic_error_new.svg": "https://gather.lijovijayan.dev/static/media/ic_error_new.ab87ce8063bd82778c6b7b0a210125b4.svg",
     "static/media/ic_error_new_green.svg": "https://gather.lijovijayan.dev/static/media/ic_error_new_green.be19888fa1ece2abddd6e213639c786d.svg",
-    "main.89cf41b8.css.map": "https://gather.lijovijayan.dev/static/css/main.89cf41b8.css.map",
-    "main.b5c384b4.js.map": "https://gather.lijovijayan.dev/static/js/main.b5c384b4.js.map",
+    "main.14f34e8b.css.map": "https://gather.lijovijayan.dev/static/css/main.14f34e8b.css.map",
+    "main.f3409eee.js.map": "https://gather.lijovijayan.dev/static/js/main.f3409eee.js.map",
     "787.3c74c6e2.chunk.js.map": "https://gather.lijovijayan.dev/static/js/787.3c74c6e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89cf41b8.css",
-    "static/js/main.b5c384b4.js"
+    "static/css/main.14f34e8b.css",
+    "static/js/main.f3409eee.js"
   ]
 }
